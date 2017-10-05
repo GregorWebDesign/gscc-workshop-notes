@@ -56,7 +56,8 @@ We'll want to see the device readings, so let's add some text fields to our layo
 
 1) Open fragment_accel.xml  
 [![](images/layout_fragment_accel.png)](images/layout_fragment_accel.png)
-2) Select the **Design** tab at the bottom of the page.
+2) Select the **Design** tab at the bottom of the page.  
+[![](images/fragment_accel_design.png)](images/fragment_accel_design.png)  
 *Take note of the Component Tree view as well as the Palette and it's items.
 3) Delete the existing TextView
 4) Create a new `LinearLayout (vertical)` by dragging it from the Palette down onto the `FrameLayout` in the Component Tree
@@ -68,6 +69,9 @@ We'll want to see the device readings, so let's add some text fields to our layo
 
    You can change them in the properties panel on the right hand side.  
    [![](images/textAccelX_properties_panel.png)](images/textAccelX_properties_panel.png)
+6) You should end up with something looking like this:  
+   [![](images/accel_layout_after.png)](images/accel_layout_after.png)
+
 
 Now that we have some text fields, let put some data in them.
 
