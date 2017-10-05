@@ -67,4 +67,4 @@ Your first App has been created and is ready to install. Let's try running it.
 
 You've just created, installed, and run your app. It's not very exciting but it's a great starting point. Let's take out these placeholders and put our own code in there.
 
-## Next: [Adding our Own Fragment](//todo)
+## Next: [Adding our Own Fragment](activity_fragment.md)

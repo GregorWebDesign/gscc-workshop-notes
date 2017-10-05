@@ -53,4 +53,4 @@ In the **SDK Tools** tab (check the box **Show Package Details** in the bottom r
 For more information on the SDK Manager, check out the Android Developer Docs:  
 https://developer.android.com/studio/intro/update.html#sdk-manager
 
-## Next: [Creating a Project](//todo)
+## Next: [Creating a Project](create_project.md)

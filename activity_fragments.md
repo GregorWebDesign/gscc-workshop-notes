@@ -174,3 +174,5 @@ Run your app again. Running your app is a really good way to test if your code c
 # Task 1 Complete!
 
 We successfully created a new app then created a new Fragment and modified our Activity to show it correctly. It's stil not very exciting but we'll be adding new things to change that and using what you've learned, you can come back and make your Home Tab look good.
+
+## Next: [Task 2 - Accelerometer](task2_accelerometer.md)

@@ -195,3 +195,5 @@ The Accelerometer is a sensor accessible through the Sensor Manager which is ava
    }
    ```
 Run your app and now you should be able to see the values updating on the screen!
+
+## Next: [Task 3 - Geolocation and Maps](task3_maps.md)

@@ -419,3 +419,5 @@ public void onLocationChanged(Location location) {
 Now when you're inside the circle or polygon, they will change colour! You could write code to do anything though, display a message, change the layout, and so much more. 
 
 That's all we'll be doing for the map, today. 
+
+## Next: [Task 4 - Cameras and Barcodes](task4_camera.md)
