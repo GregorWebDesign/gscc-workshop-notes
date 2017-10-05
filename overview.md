@@ -32,6 +32,7 @@ Workshop Overview
 - Task 4 --- Cameras and Barcodes
     - Intro
     - Task guide
+        1) task4_camera.md
     - Follow up talk
     - Questions
 
