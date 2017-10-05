@@ -66,7 +66,7 @@ That's enough layout stuff for now. Let's update our code to load a Map!
 
 Support for creating an using maps doesn't come with the basic-level Android development software. We need to add those files as `dependencies` which Android Studio will then take care of, for us.
 
-Open `build.gradle (Module:app)` and update the dependencies section so it contains the commented lines.
+Open `build.gradle (Module:app)` and update the dependencies section to look like this.
 
 ```groovy
 dependencies {
@@ -78,16 +78,14 @@ dependencies {
     compile 'com.android.support:design:25.3.1'
     compile 'com.android.support:support-v4:25.3.1'
 
-    // Contains code that lets us create and use Maps
     compile 'com.google.android.gms:play-services-maps:11.0.4'
-    // Contains code that lets us manage our location data
     compile 'com.google.android.gms:play-services-location:11.0.4'
-    // Contains support code to help us do Map calculations
     compile 'com.google.maps.android:android-maps-utils:0.5'
 
     testCompile 'junit:junit:4.12'
 }
 ```
+*Just add the three files that have `com.google.`, the rest is for reference.*
 
 then we need to Sync our project by hitting the **Sync Now** link in the yellow banner.  
 [![](images/gradle_sync.png)](images/gradle_sync.png)  
