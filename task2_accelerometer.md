@@ -197,3 +197,14 @@ The Accelerometer is a sensor accessible through the Sensor Manager which is ava
 Run your app and now you should be able to see the values updating on the screen!
 
 ## Next: [Task 3 - Geolocation and Maps](task3_maps.md)
+
+---
+
+## Extra Credit: 
+
+Go to https://github.com/GregorWebDesign/gscc-workshop
+
+Find and read through these files and see if you can get them working in your app:
+- [AccelBarsFragment.java](https://github.com/GregorWebDesign/gscc-workshop/blob/master/app/src/main/java/au/edu/catholic/goodshepherd/myapplication/AccelBarsFragment.java)
+- [fragment_accel_bars.xml](https://github.com/GregorWebDesign/gscc-workshop/blob/master/app/src/main/res/layout/fragment_accel_bars.xml)
+- [Strings resource file](https://github.com/GregorWebDesign/gscc-workshop/blob/master/app/src/main/res/values/strings.xml)
