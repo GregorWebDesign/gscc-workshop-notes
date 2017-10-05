@@ -25,6 +25,7 @@ Workshop Overview
 - Task 3 --- Geolocation and GPS
     - Intro
     - Task guide
+        1) task3_maps.md
     - Follow up talk
     - Questions
 
