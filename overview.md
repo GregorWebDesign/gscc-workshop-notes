@@ -18,6 +18,7 @@ Workshop Overview
 - Task 2 --- Learning the Accelerometer
     - Intro
     - Task guide
+        1) task2\_another\_fragment.md
     - Follow up talk
     - Questions
 
